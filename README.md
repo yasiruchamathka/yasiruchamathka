@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Yasiru
 
-<!--
-**yasiruchamathka/yasiruchamathka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Self-taught Developer  
+💻 Frontend • Next.js • UI Design  
+📍 Sri Lanka  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- HTML
+- CSS
+- JavaScript
+- React
+- Next.js
+- Python
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasiruchamathka&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=yasiruchamathka&theme=tokyonight)
