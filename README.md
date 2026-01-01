@@ -1,196 +1,112 @@
-# 🎨 **MODERN MINIMALIST VERSION**
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7E3ACE&height=180&section=header&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer%20%7C%20Full-Stack&descAlignY=65&animation=twinkling" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=7E3ACE&center=true&vCenter=true&width=500&lines=Hi,+I'm+Yasiru.;Next.js+%2B+TypeScript;AI+%2F+ML+Engineer;Python+Developer;C%2B%2B+Coder" alt="Typing SVG" />
+  </a>
 </p>
 
-<div align="center">
-  <h1 style="color: #7E3ACE; font-size: 2.5rem; margin: 0;">YASIRU CHAMATHKA</h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=7E3ACE&center=true&width=500&lines=AI+%26+ML+Engineer;Next.js+%2B+TypeScript;Python+%2B+C%2B%2B" />
-</div>
-
-<br>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://github-readme-stats.vercel.app/api?username=yasiruchamathka&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=7E3ACE&icon_color=9d4edd" width="90%" />
-      </td>
-      <td align="center" width="33%">
-        <img src="https://skillicons.dev/icons?i=nextjs,react,ts,python,tensorflow,cpp,fastapi,docker&perline=4&theme=light" />
-      </td>
-      <td align="center" width="33%">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=yasiruchamathka&theme=radical&hide_border=true&background=00000000&stroke=7E3ACE&ring=9d4edd" width="90%" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://linkedin.com/in/your-profile" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yasiruchamathka&label=Profile%20Views&color=7E3ACE&style=flat" alt="yasiruchamathka" />
+  <a href="https://github.com/yasiruchamathka?tab=followers">
+    <img src="https://img.shields.io/github/followers/yasiruchamathka?color=7E3ACE&label=Followers&style=flat" alt="GitHub Followers">
   </a>
-  <a href="https://github.com/yasiruchamathka" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:hello@yasiru.dev" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/-EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
+</p>
 
-<br>
+---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yasiruchamathka/yasiruchamathka/output/github-contribution-grid-snake.svg" />
-</div>
+## 🧠 About Me
 
-<br>
+A passionate, **self-taught developer** with a deep drive for building elegant systems and intelligent solutions. I thrive at the intersection of **high-performance applications** and **cutting-edge artificial intelligence**, constantly exploring how to make technology more intuitive and powerful.
 
-<div align="center">
-  <h2 style="color: #7E3ACE; border-bottom: 2px solid #7E3ACE; padding-bottom: 10px; width: 80%;">⚡ PROJECTS</h2>
-</div>
+*   **💡 Philosophy:** Clean code, scalable architecture, and continuous learning.
+*   **🚀 Focus Areas:** Building responsive full-stack applications with **Next.js**, designing and training **machine learning models**, and developing efficient systems software.
+*   **🎯 Current Mission:** Pushing the boundaries of what's possible by integrating AI/ML directly into web and application ecosystems.
 
-<br>
+---
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <div style="background: linear-gradient(135deg, #1a1a1a, #2d2d2d); padding: 20px; border-radius: 15px; border: 1px solid #7E3ACE;">
-          <h3>🤖 Project Nova</h3>
-          <p><em>AI Analytics Dashboard</em></p>
-          <div style="margin: 15px 0;">
-            <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js" />
-            <img src="https://img.shields.io/badge/FastAPI-green?style=flat-square&logo=fastapi" />
-          </div>
-          <a href="https://github.com/yasiruchamathka/project-nova">
-            <img src="https://img.shields.io/badge/VIEW_CODE-7E3ACE?style=for-the-badge&logo=github" />
-          </a>
-        </div>
-      </td>
-      <td align="center" width="33%">
-        <div style="background: linear-gradient(135deg, #1a1a1a, #2d2d2d); padding: 20px; border-radius: 15px; border: 1px solid #7E3ACE;">
-          <h3>⚡ Quantum CLI</h3>
-          <p><em>Developer Toolchain</em></p>
-          <div style="margin: 15px 0;">
-            <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B" />
-            <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" />
-          </div>
-          <a href="https://github.com/yasiruchamathka/quantum-cli">
-            <img src="https://img.shields.io/badge/VIEW_CODE-7E3ACE?style=for-the-badge&logo=github" />
-          </a>
-        </div>
-      </td>
-      <td align="center" width="33%">
-        <div style="background: linear-gradient(135deg, #1a1a1a, #2d2d2d); padding: 20px; border-radius: 15px; border: 1px solid #7E3ACE;">
-          <h3>🛡️ Sentinel AI</h3>
-          <p><em>Threat Detection</em></p>
-          <div style="margin: 15px 0;">
-            <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow" />
-            <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker" />
-          </div>
-          <a href="https://github.com/yasiruchamathka/sentinel-ai">
-            <img src="https://img.shields.io/badge/VIEW_CODE-7E3ACE?style=for-the-badge&logo=github" />
-          </a>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+## 🛠️ Tech Stack
 
-<br>
+### **Frontend & Full-Stack**
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<div align="center">
-  <h2 style="color: #7E3ACE; border-bottom: 2px solid #7E3ACE; padding-bottom: 10px; width: 80%;">🔧 TECH STACK</h2>
-</div>
+### **Backend & Data**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-<br>
+### **AI / Machine Learning**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="25%">
-        <h4>Frontend</h4>
-        <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind" />
-      </td>
-      <td align="center" width="25%">
-        <h4>Backend</h4>
-        <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mongodb" />
-      </td>
-      <td align="center" width="25%">
-        <h4>AI/ML</h4>
-        <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
-      </td>
-      <td align="center" width="25%">
-        <h4>Tools</h4>
-        <img src="https://skillicons.dev/icons?i=docker,git,linux,vscode" />
-      </td>
-    </tr>
-  </table>
-</div>
+### **Systems & Tools**
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<br>
+---
 
-<div align="center">
-  <h2 style="color: #7E3ACE; border-bottom: 2px solid #7E3ACE; padding-bottom: 10px; width: 80%;">📊 STATS</h2>
-</div>
+## 📈 GitHub Analytics
 
-<br>
+<p align="center">
+  <!-- Dynamic GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=yasiruchamathka&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=7E3ACE&icon_color=1E90FF" height="165" alt="GitHub Stats"/>
+  <!-- Most Used Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasiruchamathka&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=7E3ACE" height="165" alt="Top Languages"/>
+</p>
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasiruchamathka&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=7E3ACE&langs_count=8" width="90%" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-profile-trophy.vercel.app/?username=yasiruchamathka&theme=radical&no-frame=true&column=2&margin-w=15&margin-h=15" width="90%" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yasiruchamathka&theme=radical&hide_border=true&background=00000000&stroke=7E3ACE&ring=7E3ACE&fire=DD7230&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF" height="165" alt="GitHub Streak"/>
+  <!-- Trophy Stats -->
+  <img src="https://github-profile-trophy.vercel.app/?username=yasiruchamathka&theme=radical&no-frame=true&column=4&margin-w=5&margin-h=5" alt="GitHub Trophies" />
+</p>
 
-<br>
+---
 
-<div align="center">
-  <h2 style="color: #7E3ACE; border-bottom: 2px solid #7E3ACE; padding-bottom: 10px; width: 80%;">🚀 CURRENTLY</h2>
-  <table style="width: 80%;">
-    <tr>
-      <td align="center" width="25%">
-        <div style="font-size: 2rem;">🔭</div>
-        <div>Building AI Apps</div>
-      </td>
-      <td align="center" width="25%">
-        <div style="font-size: 2rem;">🌱</div>
-        <div>Learning ML</div>
-      </td>
-      <td align="center" width="25%">
-        <div style="font-size: 2rem;">💡</div>
-        <div>Exploring C++</div>
-      </td>
-      <td align="center" width="25%">
-        <div style="font-size: 2rem;">🤝</div>
-        <div>Open Source</div>
-      </td>
-    </tr>
-  </table>
-</div>
+## 🚀 Featured Projects
 
-<br>
+### **Project Nova | AI-Powered Analytics Dashboard**
+> *A full-stack dashboard for visualizing and interacting with machine learning model predictions in real-time.*
+>
+> ![Next.js](https://img.shields.io/badge/Next.js-13-black?style=flat-square)
+> ![FastAPI](https://img.shields.io/badge/FastAPI-0.104-green?style=flat-square)
+> ![PyTorch](https://img.shields.io/badge/PyTorch-2.0-EE4C2C?style=flat-square)
+>
+> - **🔗 Live Demo:** [Coming Soon]
+> - **📂 Repository:** [github.com/yasiruchamathka/project-nova](https://github.com/yasiruchamathka/project-nova)
 
-<div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fyasiruchamathka&label=VISITORS&labelColor=%237E3ACE&countColor=%23000000&style=flat-square" />
-</div>
+### **Quantum CLI | Developer Toolchain**
+> *A command-line interface built in C++ and Python to automate development workflows and environment management.*
+>
+> ![C++](https://img.shields.io/badge/C++-17-00599C?style=flat-square)
+> ![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=flat-square)
+> ![CMake](https://img.shields.io/badge/CMake-3.25-064F8C?style=flat-square)
+>
+> - **📦 Install:** `pip install quantum-cli`
+> - **📂 Repository:** [github.com/yasiruchamathka/quantum-cli](https://github.com/yasiruchamathka/quantum-cli)
 
-<br>
+### **Sentinel | Real-time Threat Detection Model**
+> *An experimental neural network for anomaly detection using TensorFlow and real-time data streams.*
+>
+> ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.15-FF6F00?style=flat-square)
+> ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.3-F7931E?style=flat-square)
+> ![Docker](https://img.shields.io/badge/Docker-24.0-2496ED?style=flat-square)
+>
+> - **📊 Dataset:** Custom Time-Series
+> - **📂 Repository:** [github.com/yasiruchamathka/sentinel-ai](https://github.com/yasiruchamathka/sentinel-ai)
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7E3ACE&height=100&section=footer&animation=twinkling" />
-</div>
+---
 
-<div align="center" style="margin-top: 20px;">
-  <sub>✨ Clean. Modern. Professional. ✨</sub>
-</div>
+<p align="center">
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=yasiruchamathka&repo=yasiruchamathka&countColor=%237E3ACE" alt="Visitor Counter"/>
+</p>
+
+<p align="center">
+  <i>"First, solve the problem. Then, write the code."</i> – John Johnson
+</p>
